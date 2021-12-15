@@ -1,1 +1,2 @@
-este texto puede dar conflicto f(x,y,z)
+Te voy a conflictear todo xd
+este texto puede dar conflicto f(x,6,z)
